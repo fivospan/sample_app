@@ -1,0 +1,1322 @@
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-08 20:58:16 +0300
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 743ms (Views: 742.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-08 21:02:42 +0300
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 65ms (Views: 64.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-08 21:05:12 +0300
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 66ms (Views: 65.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-08 21:05:12 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-08 21:08:47 +0300
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 65ms (Views: 64.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-08 21:08:47 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 19:05:20 +0300
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 217ms (Views: 216.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:05:20 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 16ms (Views: 16.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 19:07:57 +0300
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 66ms (Views: 64.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:07:57 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 19:08:41 +0300
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 66ms (Views: 65.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:08:41 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 19:08:41 +0300
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 19:12:33 +0300
+Processing by StaticPagesController#about as HTML
+  Rendered static_pages/about.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 66ms (Views: 65.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:12:33 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 19:12:33 +0300
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 19:14:07 +0300
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 66ms (Views: 65.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:14:07 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 19:14:07 +0300
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 19:15:00 +0300
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 69ms (Views: 68.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 19:15:00 +0300
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:15:00 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 19:17:22 +0300
+Processing by StaticPagesController#about as HTML
+  Rendered static_pages/about.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 66ms (Views: 65.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:17:22 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 19:17:22 +0300
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:27:23 +0300
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/help.html.erb (1.7ms)
+Completed 200 OK in 11ms (Views: 10.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:27:23 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 19:27:23 +0300
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/stati_pages/home" for 127.0.0.1 at 2014-04-09 19:27:23 +0300
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 19:27:23 +0300
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about_us" for 127.0.0.1 at 2014-04-09 19:27:23 +0300
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 19:31:38 +0300
+Processing by StaticPagesController#about as HTML
+  Rendered static_pages/about.html.erb (1.6ms)
+Completed 200 OK in 11ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about_us" for 127.0.0.1 at 2014-04-09 19:31:38 +0300
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:31:38 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:31:38 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 19:31:38 +0300
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/stati_pages/home" for 127.0.0.1 at 2014-04-09 19:31:38 +0300
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 19:31:49 +0300
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb (1.7ms)
+Completed 200 OK in 11ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/stati_pages/home" for 127.0.0.1 at 2014-04-09 19:31:49 +0300
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:31:49 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:31:49 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 19:31:49 +0300
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about_us" for 127.0.0.1 at 2014-04-09 19:31:49 +0300
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 19:32:23 +0300
+Processing by StaticPagesController#about as HTML
+  Rendered static_pages/about.html.erb (1.7ms)
+Completed 200 OK in 11ms (Views: 10.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about_us" for 127.0.0.1 at 2014-04-09 19:32:23 +0300
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:32:23 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:32:23 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 19:32:23 +0300
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/stati_pages/home" for 127.0.0.1 at 2014-04-09 19:32:23 +0300
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:33:10 +0300
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/help.html.erb (1.7ms)
+Completed 200 OK in 11ms (Views: 10.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:33:10 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 19:33:10 +0300
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/stati_pages/home" for 127.0.0.1 at 2014-04-09 19:33:10 +0300
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 19:33:10 +0300
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about_us" for 127.0.0.1 at 2014-04-09 19:33:10 +0300
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/stati_pages/home" for 127.0.0.1 at 2014-04-09 19:33:56 +0300
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 19:33:56 +0300
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 11ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:33:56 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:33:56 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about_us" for 127.0.0.1 at 2014-04-09 19:33:56 +0300
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 19:33:56 +0300
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 19:41:50 +0300
+Processing by StaticPagesController#about as HTML
+  Rendered static_pages/about.html.erb (1.7ms)
+Completed 200 OK in 11ms (Views: 10.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about_us" for 127.0.0.1 at 2014-04-09 19:41:50 +0300
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:41:50 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:41:50 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 19:41:50 +0300
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/stati_pages/home" for 127.0.0.1 at 2014-04-09 19:41:50 +0300
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 19:42:45 +0300
+Processing by StaticPagesController#about as HTML
+  Rendered static_pages/about.html.erb (1.6ms)
+Completed 200 OK in 11ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 19:42:45 +0300
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:42:45 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:42:45 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 19:42:45 +0300
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 19:42:45 +0300
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 19:43:06 +0300
+Processing by StaticPagesController#about as HTML
+  Rendered static_pages/about.html.erb (1.6ms)
+Completed 200 OK in 11ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 19:43:06 +0300
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:43:06 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:43:06 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 19:43:06 +0300
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 19:43:06 +0300
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 19:46:17 +0300
+Processing by StaticPagesController#about as HTML
+  Rendered static_pages/about.html.erb (1.7ms)
+Completed 200 OK in 11ms (Views: 10.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 19:46:17 +0300
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:46:17 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:46:17 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 19:46:17 +0300
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 19:46:17 +0300
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 19:47:18 +0300
+Processing by StaticPagesController#about as HTML
+  Rendered static_pages/about.html.erb (1.7ms)
+Completed 200 OK in 11ms (Views: 10.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 19:47:18 +0300
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:47:18 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:47:18 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 19:47:18 +0300
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 19:47:18 +0300
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 19:48:05 +0300
+Processing by StaticPagesController#about as HTML
+  Rendered static_pages/about.html.erb (1.9ms)
+Completed 200 OK in 11ms (Views: 10.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 19:48:06 +0300
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:48:06 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:48:06 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 19:48:06 +0300
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 19:48:06 +0300
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 19:50:52 +0300
+Processing by StaticPagesController#about as HTML
+  Rendered static_pages/about.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 66ms (Views: 65.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 19:50:52 +0300
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 2ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:50:52 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:50:52 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 2ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 19:50:52 +0300
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 19:50:52 +0300
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 2ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 19:53:34 +0300
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 67ms (Views: 66.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 19:53:34 +0300
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 2ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:53:34 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:53:34 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 2ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 19:53:34 +0300
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 19:53:34 +0300
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 2ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 19:54:15 +0300
+Processing by StaticPagesController#about as HTML
+  Rendered static_pages/about.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 66ms (Views: 65.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 19:54:15 +0300
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 2ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:54:15 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 19:54:15 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 2ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 19:54:15 +0300
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 19:54:15 +0300
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 2ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 21:20:27 +0300
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 141ms (Views: 139.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 21:20:27 +0300
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 21:20:27 +0300
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 21:20:27 +0300
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 21:20:27 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 21:20:27 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-04-09 21:20:27 +0300
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-04-09 21:20:27 +0300
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-04-09 21:21:36 +0300
+Processing by StaticPagesController#contact as HTML
+  Rendered static_pages/contact.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 67ms (Views: 66.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-04-09 21:21:36 +0300
+Processing by StaticPagesController#contact as HTML
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 21:21:36 +0300
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 21:21:36 +0300
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 21:21:36 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 21:21:36 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 21:21:36 +0300
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 21:21:36 +0300
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 21:28:02 +0300
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 66ms (Views: 65.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-09 21:28:02 +0300
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-04-09 21:28:02 +0300
+Processing by StaticPagesController#contact as HTML
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-04-09 21:28:02 +0300
+Processing by StaticPagesController#contact as HTML
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 21:28:02 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-09 21:28:02 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 21:28:02 +0300
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-09 21:28:02 +0300
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-13 13:23:09 +0300
+Processing by StaticPagesController#about as HTML
+  Rendered static_pages/about.html.erb within layouts/application (2.5ms)
+Completed 500 Internal Server Error in 38ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-13 13:23:09 +0300
+Processing by StaticPagesController#about as HTML
+Completed 500 Internal Server Error in 44ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-13 13:23:09 +0300
+Processing by StaticPagesController#home as HTML
+Completed 500 Internal Server Error in 3ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-13 13:23:09 +0300
+Processing by StaticPagesController#home as HTML
+Completed 500 Internal Server Error in 2ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-13 13:23:09 +0300
+Processing by StaticPagesController#help as HTML
+Completed 500 Internal Server Error in 7ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-13 13:23:09 +0300
+Processing by StaticPagesController#help as HTML
+Completed 500 Internal Server Error in 2ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-04-13 13:23:09 +0300
+Processing by StaticPagesController#contact as HTML
+Completed 500 Internal Server Error in 3ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-04-13 13:23:09 +0300
+Processing by StaticPagesController#contact as HTML
+Completed 500 Internal Server Error in 2ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-13 13:27:11 +0300
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.6ms)
+Completed 500 Internal Server Error in 14ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-13 13:27:11 +0300
+Processing by StaticPagesController#home as HTML
+Completed 500 Internal Server Error in 44ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-13 13:27:12 +0300
+Processing by StaticPagesController#help as HTML
+Completed 500 Internal Server Error in 3ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-13 13:27:12 +0300
+Processing by StaticPagesController#help as HTML
+Completed 500 Internal Server Error in 2ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-04-13 13:27:12 +0300
+Processing by StaticPagesController#contact as HTML
+Completed 500 Internal Server Error in 3ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-04-13 13:27:12 +0300
+Processing by StaticPagesController#contact as HTML
+Completed 500 Internal Server Error in 2ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-13 13:27:12 +0300
+Processing by StaticPagesController#about as HTML
+Completed 500 Internal Server Error in 3ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-13 13:27:12 +0300
+Processing by StaticPagesController#about as HTML
+Completed 500 Internal Server Error in 2ms
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-04-13 13:30:23 +0300
+Processing by StaticPagesController#contact as HTML
+  Rendered static_pages/contact.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 158ms (Views: 157.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.3ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-04-13 13:30:23 +0300
+Processing by StaticPagesController#contact as HTML
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-13 13:30:23 +0300
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-13 13:30:23 +0300
+Processing by StaticPagesController#home as HTML
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-13 13:30:23 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-13 13:30:23 +0300
+Processing by StaticPagesController#help as HTML
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-13 13:30:23 +0300
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-13 13:30:23 +0300
+Processing by StaticPagesController#about as HTML
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-16 10:00:51 +0300
+Processing by StaticPagesController#help as HTML
+Warning. Error encountered while saving cache 584f70b5ac55922326cec76a1fe2cfdf6249f77c/custom.css.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache 1418f26719dd9fb71436a9ae3b0ffe7da976f1c9/bootstrap.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/bootstrap.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_variables.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_mixins.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_reset.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_scaffolding.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_grid.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_layouts.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_type.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_code.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_forms.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_tables.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_sprites.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_dropdowns.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_wells.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_component-animations.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_close.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_buttons.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_button-groups.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_alerts.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_navs.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_navbar.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_breadcrumbs.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_pagination.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_pager.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_modals.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_tooltip.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_popovers.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_thumbnails.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_media.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_labels-badges.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_progress-bars.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_accordion.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_carousel.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_hero-unit.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+Warning. Error encountered while saving cache b6231c3dbb4b9d9851def726d150986125bac3b7/_utilities.scssc: can't dump anonymous class #<Class:0x007f9853cfa0b0>
+
+  Rendered layouts/_shim.html.erb (0.8ms)
+  Rendered layouts/_header.html.erb (2.0ms)
+  Rendered layouts/_footer.html.erb (1.4ms)
+Completed 200 OK in 5712ms (Views: 5711.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-16 10:00:57 +0300
+Processing by StaticPagesController#help as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 4ms (Views: 3.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-16 10:00:57 +0300
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 37ms (Views: 36.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-16 10:00:57 +0300
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-04-16 10:00:57 +0300
+Processing by StaticPagesController#contact as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 5ms (Views: 4.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-04-16 10:00:57 +0300
+Processing by StaticPagesController#contact as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-16 10:00:57 +0300
+Processing by StaticPagesController#about as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 11ms (Views: 11.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-16 10:00:57 +0300
+Processing by StaticPagesController#about as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-04-16 10:03:20 +0300
+Processing by StaticPagesController#contact as HTML
+  Rendered layouts/_shim.html.erb (0.5ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.6ms)
+Completed 200 OK in 67ms (Views: 66.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-04-16 10:03:21 +0300
+Processing by StaticPagesController#contact as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-16 10:03:21 +0300
+Processing by StaticPagesController#about as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 5ms (Views: 4.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-16 10:03:21 +0300
+Processing by StaticPagesController#about as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-16 10:03:21 +0300
+Processing by StaticPagesController#help as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 20ms (Views: 19.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-16 10:03:21 +0300
+Processing by StaticPagesController#help as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-16 10:03:21 +0300
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 6.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-16 10:03:21 +0300
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-16 10:04:45 +0300
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (4.2ms)
+  Rendered layouts/_shim.html.erb (0.5ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.5ms)
+Completed 200 OK in 42ms (Views: 41.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-04-16 10:04:45 +0300
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-16 10:04:45 +0300
+Processing by StaticPagesController#help as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 5ms (Views: 4.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/help" for 127.0.0.1 at 2014-04-16 10:04:46 +0300
+Processing by StaticPagesController#help as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-04-16 10:04:46 +0300
+Processing by StaticPagesController#contact as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-04-16 10:04:46 +0300
+Processing by StaticPagesController#contact as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-04-16 10:04:46 +0300
+Processing by StaticPagesController#contact as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-04-16 10:04:46 +0300
+Processing by StaticPagesController#contact as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-16 10:04:46 +0300
+Processing by StaticPagesController#about as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 5ms (Views: 4.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/about" for 127.0.0.1 at 2014-04-16 10:04:46 +0300
+Processing by StaticPagesController#about as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-04-16 10:17:12 +0300
+Processing by StaticPagesController#contact as HTML
+  Rendered layouts/_shim.html.erb (0.6ms)
+  Rendered layouts/_header.html.erb (1.2ms)
+  Rendered layouts/_footer.html.erb (2.6ms)
+Completed 200 OK in 207ms (Views: 206.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/static_pages/contact" for 127.0.0.1 at 2014-04-16 10:17:12 +0300
+Processing by StaticPagesController#contact as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/about" for 127.0.0.1 at 2014-04-16 13:04:53 +0300
+Processing by StaticPagesController#about as HTML
+  Rendered static_pages/about.html.erb within layouts/application (3.2ms)
+  Rendered layouts/_shim.html.erb (0.7ms)
+  Rendered layouts/_header.html.erb (1.5ms)
+  Rendered layouts/_footer.html.erb (1.0ms)
+Completed 200 OK in 320ms (Views: 319.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/about" for 127.0.0.1 at 2014-04-16 13:04:53 +0300
+Processing by StaticPagesController#about as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/help" for 127.0.0.1 at 2014-04-16 13:04:53 +0300
+Processing by StaticPagesController#help as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 13ms (Views: 12.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/help" for 127.0.0.1 at 2014-04-16 13:04:53 +0300
+Processing by StaticPagesController#help as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/contact" for 127.0.0.1 at 2014-04-16 13:04:53 +0300
+Processing by StaticPagesController#contact as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 82ms (Views: 82.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/contact" for 127.0.0.1 at 2014-04-16 13:04:53 +0300
+Processing by StaticPagesController#contact as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 6ms (Views: 5.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2014-04-16 13:04:53 +0300
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 74ms (Views: 73.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2014-04-16 13:04:54 +0300
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2014-04-16 13:04:54 +0300
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/contact" for 127.0.0.1 at 2014-04-16 14:29:28 +0300
+Processing by StaticPagesController#contact as HTML
+  Rendered static_pages/contact.html.erb within layouts/application (2.6ms)
+  Rendered layouts/_shim.html.erb (0.7ms)
+  Rendered layouts/_header.html.erb (1.9ms)
+  Rendered layouts/_footer.html.erb (1.5ms)
+Completed 200 OK in 489ms (Views: 487.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/contact" for 127.0.0.1 at 2014-04-16 14:29:29 +0300
+Processing by StaticPagesController#contact as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 3ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/about" for 127.0.0.1 at 2014-04-16 14:29:29 +0300
+Processing by StaticPagesController#about as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 13ms (Views: 12.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/about" for 127.0.0.1 at 2014-04-16 14:29:29 +0300
+Processing by StaticPagesController#about as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/help" for 127.0.0.1 at 2014-04-16 14:29:29 +0300
+Processing by StaticPagesController#help as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 5ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/help" for 127.0.0.1 at 2014-04-16 14:29:29 +0300
+Processing by StaticPagesController#help as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2014-04-16 14:29:29 +0300
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 58ms (Views: 57.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2014-04-16 14:29:29 +0300
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 4ms (Views: 3.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2014-04-16 14:29:29 +0300
+Processing by StaticPagesController#home as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/signup" for 127.0.0.1 at 2014-04-16 15:34:15 +0300
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (2.6ms)
+Warning. Error encountered while saving cache 584f70b5ac55922326cec76a1fe2cfdf6249f77c/users.css.scssc: can't dump anonymous class #<Class:0x007fbe9ad68160>
+
+  Rendered layouts/_shim.html.erb (1.1ms)
+  Rendered layouts/_header.html.erb (2.2ms)
+  Rendered layouts/_footer.html.erb (1.8ms)
+Completed 200 OK in 2683ms (Views: 2682.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/signup" for 127.0.0.1 at 2014-04-16 15:34:18 +0300
+Processing by UsersController#new as HTML
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 4ms (Views: 3.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
